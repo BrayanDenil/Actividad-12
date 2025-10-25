@@ -95,3 +95,8 @@ El Facade simplifica el flujo del proceso de compra,
 Y el Singleton asegura un registro centralizado de todos los eventos del sistema.
 
 En conjunto, hacen que la aplicación sea modular, escalable y fácil de mantener.
+
+
+
+https://drive.google.com/file/d/1oZFEX0IBZ7hq5W4KXgCu_hRjhfGFVdIm/view?usp=drive_link
+
