@@ -81,6 +81,8 @@ Se usa para registrar acciones relevantes como agregar productos o finalizar com
 Ejemplo Salida
 Singleton
 
+
+
 Reflexion Final
 El patrón más difícil de aplicar fue el Decorator, ya que requiere una buena comprensión de cómo extender dinámicamente objetos sin modificar la clase original. En este proyecto, los patrones se complementan entre sí:
 
